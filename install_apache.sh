@@ -1,4 +1,4 @@
-#Thius comment added
+#Thius comment added. Comment addded 24Feb20221
 #!/bin/bash
 sudo yum update
 sudo yum install -y httpd
