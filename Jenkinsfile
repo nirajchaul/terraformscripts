@@ -1,2 +1,2 @@
-@Library('git_groovy') _
+@Library('groovy') _
 main()
